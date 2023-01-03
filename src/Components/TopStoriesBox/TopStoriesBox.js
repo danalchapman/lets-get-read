@@ -1,3 +1,4 @@
+import React from 'react'
 import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
 import PropTypes from 'prop-types'
 import './TopStoriesBox.css'

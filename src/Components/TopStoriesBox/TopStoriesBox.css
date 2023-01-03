@@ -16,8 +16,8 @@
     width: 75%;
 }
 
-.story-box{
+.story-box {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    /* justify-content: space-around; */
 }

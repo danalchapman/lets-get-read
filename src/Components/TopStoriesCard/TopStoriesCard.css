@@ -1,12 +1,14 @@
 .story-card {
     border: .25rem solid black;
     border-radius: 2.5%;
+    cursor: pointer;
     display: flex;
     flex: 1;
     flex-direction: column;
     margin: .4rem;
     padding: 5px;
     text-align: center;
+    width: 100px;
 }
 
 .card-title {
