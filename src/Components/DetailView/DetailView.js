@@ -15,17 +15,17 @@ export const DetailView = ({
     multimediaCaption,
     shortUrl
 }) => {
-
+    console.log(shortUrl)
     return (
         <article>
             <h3>{title}</h3>
             <p>{byline}</p>
             <img src={multimediaImage} alt={multimediaCaption} />
-            <p>{section} || {subsection}</p>
+            <p>{section} {subsection}</p>
             <p>Updated: {updated_date}</p>
             <p>Published: {published_date}</p>
             <p>{abstract}</p>
-            <p>Link to Full Article: {shortUrl}</p>
+            <a href={shortUrl}>Link to Full Article</a>
             <Link to='/'>
                 <button>
                     Return to the Front Page
