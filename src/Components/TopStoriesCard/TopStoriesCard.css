@@ -1,12 +1,12 @@
 .story-card {
-    align-items: center;
-    border: 2px solid pink;
+    border: .25rem solid black;
+    border-radius: 2.5%;
     display: flex;
+    flex: 1;
     flex-direction: column;
-    height: 20%;
     margin: .4rem;
+    padding: 5px;
     text-align: center;
-    width: 25%;
 }
 
 .card-title {
