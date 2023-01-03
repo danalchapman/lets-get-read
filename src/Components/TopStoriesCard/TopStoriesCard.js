@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import './TopStoriesCard.css'
 
 export const TopStoriesCard = ({ title, multimedia }) => {
@@ -11,4 +12,9 @@ export const TopStoriesCard = ({ title, multimedia }) => {
             <h3 className='card-title'>{title}</h3>
         </article>
     )
+}
+
+TopStoriesCard.propTypes = {
+    title: PropTypes.string,
+    multimedia: PropTypes.string
 }

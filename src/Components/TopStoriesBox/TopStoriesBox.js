@@ -1,4 +1,5 @@
 import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
+import PropTypes from 'prop-types'
 import './TopStoriesBox.css'
 
 export const TopStoriesBox = ({ stories }) => {
@@ -28,4 +29,8 @@ export const TopStoriesBox = ({ stories }) => {
             </div>
         </div>
     )
+}
+
+TopStoriesBox.propTypes = {
+    stories: PropTypes.array
 }
