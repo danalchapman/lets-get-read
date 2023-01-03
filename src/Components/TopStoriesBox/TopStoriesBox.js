@@ -3,7 +3,7 @@ import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
 import PropTypes from 'prop-types'
 import './TopStoriesBox.css'
 
-export const TopStoriesBox = ({ stories }) => {
+export const TopStoriesBox = ({ stories, setSection }) => {
 
     const storyCards = stories.map(story => {
         return (
@@ -17,13 +17,39 @@ export const TopStoriesBox = ({ stories }) => {
 
     return (
         <div className='front-page'>
-            <nav className='nav-bar'>
-                <p>Other Stories</p>
-            </nav>
+            <form className='side-bar'>
+                <select
+                    className='section-dropdown'
+                    name='section'
+                    onChange={event => setSection(event.target.value)}
+                >
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                    <option></option>
+                </select>
+            </form>
             <div className='stories'>
-                <section className='topics'>
-                    <p>Topic</p>
-                </section>
                 <section className='story-box'>
                     {storyCards}
                 </section>

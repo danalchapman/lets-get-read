@@ -4,16 +4,12 @@
     overflow-y: scroll;
 }
 
-.nav-bar {
+.side-bar {
     width: 20%;
 }
 
 .stories {
     width: 100vw;
-}
-
-.topics {
-    width: 75%;
 }
 
 .story-box {
