@@ -17,10 +17,12 @@ export const App = () => {
   return (
     <main className='main-page'>
       <h1>Let's Get Read</h1>
-      { error && <h2>{error}</h2>}
+      { error && <h2>{error}</h2> }
+      { stories.length ? 
       <TopStoriesBox 
         stories={stories}
-      />
+      /> :
+      <h2>Loading...</h2>}
     </main>
   )
 }
