@@ -1,0 +1,17 @@
+.front-page {
+    border: 2px solid blue;
+    display: flex;
+    height: 85vh;
+}
+
+.nav-bar {
+    width: 20%;
+}
+
+.stories {
+    width: 100vw;
+}
+
+.topics {
+    width: 75%;
+}

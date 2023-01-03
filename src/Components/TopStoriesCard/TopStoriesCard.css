@@ -1,0 +1,8 @@
+.story-card {
+    align-items: center;
+    border: 2px solid pink;
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    width: 40%;
+}
