@@ -8,7 +8,6 @@ import './App.css';
 export const App = () => {
 
   const [stories, setStories] = useState([])
-  const [section, setSection] = useState('Home')
   const [error, setError] = useState('')
 
   useEffect(() => {
@@ -25,7 +24,6 @@ export const App = () => {
         <Route exact path='/'>
           <TopStoriesBox 
             stories={ stories }
-            setSection={ setSection }
           /> 
         </Route> 
         <Route exact path='/:title'
