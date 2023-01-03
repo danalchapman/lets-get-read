@@ -1,8 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Link } from 'react-router-dom'
 import './TopStoriesCard.css'
 
 export const TopStoriesCard = ({ title, multimedia }) => {
+    
     return (
         <article className='story-card'>
             <img 
