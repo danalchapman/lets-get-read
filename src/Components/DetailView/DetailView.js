@@ -15,7 +15,7 @@ export const DetailView = ({
     multimediaCaption,
     shortUrl
 }) => {
-    
+
     return (
         <article>
             <h3>{title}</h3>
@@ -26,6 +26,11 @@ export const DetailView = ({
             <p>Published: {published_date}</p>
             <p>{abstract}</p>
             <p>Link to Full Article: {shortUrl}</p>
+            <Link to='/'>
+                <button>
+                    Return to the Front Page
+                </button>
+            </Link>
         </article>
     )
 }
