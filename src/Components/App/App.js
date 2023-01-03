@@ -8,7 +8,7 @@ import './App.css';
 export const App = () => {
 
   const [stories, setStories] = useState([])
-  const [section, setSection] = useState('')
+  const [section, setSection] = useState('Home')
   const [error, setError] = useState('')
 
   useEffect(() => {
