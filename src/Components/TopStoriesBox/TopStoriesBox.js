@@ -1,7 +1,18 @@
 import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
 import './TopStoriesBox.css'
 
-export const TopStoriesBox = () => {
+export const TopStoriesBox = ({ stories }) => {
+
+    const storyCards = stories.map(story => {
+        return (
+            <TopStoriesCard 
+                key={story.title}
+                title={story.title}
+                multimedia={story.multimedia[2].url}
+            />
+        )
+    })
+
     return (
         <div className='front-page'>
             <nav className='nav-bar'>
@@ -11,7 +22,7 @@ export const TopStoriesBox = () => {
                 <section className='topics'>
                     <p>Topic</p>
                 </section>
-                <TopStoriesCard />
+                {storyCards}
             </div>
         </div>
     )

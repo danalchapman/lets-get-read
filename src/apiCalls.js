@@ -7,12 +7,12 @@ export const getData = () => {
         }
     }
 
-    fetch(url, options)
+    return fetch(url, options)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`${response.status}`)
+            } else {
+                return response.json()
             }
-            return response.json()
         })
-        .then(data => console.log(data.results))
 }
