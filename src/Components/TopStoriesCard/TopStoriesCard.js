@@ -3,7 +3,12 @@ import './TopStoriesCard.css'
 export const TopStoriesCard = ({ title, multimedia }) => {
     return (
         <article className='story-card'>
-            <h3>{title}</h3>
+            <img 
+                className='card-img'
+                src={multimedia}
+                alt='Still from the article'
+            />
+            <h3 className='card-title'>{title}</h3>
         </article>
     )
 }

@@ -22,7 +22,9 @@ export const TopStoriesBox = ({ stories }) => {
                 <section className='topics'>
                     <p>Topic</p>
                 </section>
-                {storyCards}
+                <section className='story-box'>
+                    {storyCards}
+                </section>
             </div>
         </div>
     )
