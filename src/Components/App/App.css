@@ -1,3 +1,10 @@
 .main-page {
-    height: 97.5vh;
+    height: 100vh;
+    overflow-x: scroll;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.main-page::-webkit-scrollbar {
+    display: none;
 }

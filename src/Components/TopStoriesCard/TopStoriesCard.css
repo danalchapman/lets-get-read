@@ -5,10 +5,20 @@
     display: flex;
     flex: 1;
     flex-direction: column;
-    margin: .4rem;
+    margin: .5rem;
     padding: 5px;
     text-align: center;
     width: 100px;
+}
+
+.story-card:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+.card-img {
+    max-height: 100%;
+    object-fit: fill;
 }
 
 .card-title {

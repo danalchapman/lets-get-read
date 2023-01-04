@@ -1,7 +1,13 @@
 .front-page {
     display: flex;
-    height: 90vh;
+    height: 85vh;
     overflow-y: scroll;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.front-page::-webkit-scrollbar {
+    display: none;
 }
 
 .side-bar {
@@ -9,11 +15,10 @@
 }
 
 .stories {
-    width: 100vw;
+    width: 80%;
 }
 
 .story-box {
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-around; */
 }
