@@ -46,6 +46,7 @@ export const TopStoriesBox = ({ stories }) => {
                     key={story.title}
                     title={story.title}
                     multimedia={story.multimedia[2].url}
+                    abstract={story.abstract}
                 />
             )
         })
@@ -59,7 +60,6 @@ export const TopStoriesBox = ({ stories }) => {
                     htmlFor='section'
                 >
                     Find stories by Topic:
-                </label>
                 <select
                     className='section-dropdown'
                     name='section'
@@ -68,6 +68,7 @@ export const TopStoriesBox = ({ stories }) => {
                     <option value='home'>Home</option>
                     {renderSectionDropdown}
                 </select>
+                </label>
             </form>
             <div className='stories'>
                 <section className='story-box'>

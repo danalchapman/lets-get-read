@@ -3,10 +3,10 @@ import PropTypes from 'prop-types'
 import { NavLink } from 'react-router-dom'
 import './TopStoriesCard.css'
 
-export const TopStoriesCard = ({ title, multimedia }) => {
+export const TopStoriesCard = ({ title, multimedia, abstract }) => {
     
     return (
-        <NavLink to={`/${title}`} className='story-card'>
+        <NavLink to={`/${abstract}`} className='story-card'>
             <img 
                 className='card-img'
                 src={multimedia}

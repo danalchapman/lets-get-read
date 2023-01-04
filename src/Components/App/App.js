@@ -27,9 +27,9 @@ export const App = () => {
             stories={ stories }
           /> 
         </Route> 
-        <Route exact path='/:title'
+        <Route exact path='/:abstract'
           render={ ({ match }) => {
-            const singleStory = stories?.find(story => story.title === match.params.title)
+            const singleStory = stories?.find(story => story.abstract === match.params.abstract)
 
             if (!singleStory) {
               return <Redirect to="/" />;
