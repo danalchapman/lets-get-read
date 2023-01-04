@@ -13,7 +13,6 @@ export const DetailView = ({
     updated_date,
     multimediaImage,
     multimediaCaption,
-    shortUrl
 }) => {
     
     return (
@@ -26,7 +25,6 @@ export const DetailView = ({
             <p>Published: {published_date}</p>
             { updated_date ? <p>Updated: {updated_date}</p> : null}
             <p>{abstract}</p>
-            {/* <a href={shortUrl}>Link to Full Article</a> */}
             <Link to='/'>
                 <button>
                     Return to the Front Page
@@ -45,6 +43,5 @@ DetailView.propTypes = {
     published_date: PropTypes.string,
     updated_date: PropTypes.string,
     multimediaImage: PropTypes.string,
-    multimediaCaption: PropTypes.string,
-    shortUrl: PropTypes.string
+    multimediaCaption: PropTypes.string
 }

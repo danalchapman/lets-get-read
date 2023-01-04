@@ -9,10 +9,11 @@ export const TopStoriesBox = ({ stories }) => {
     const [filteredStories, setFilteredStories] = useState([])
 
     useEffect(() => {
-        getFilteredStories()
+        getFilteredStories() 
+        // eslint-disable-next-line
     }, [section])
 
-    const getSections = stories.reduce((list, story) => { // creates a sections array
+    const getSections = stories.reduce((list, story) => {
         if (!list.includes(story.section)) {
             list.push(story.section)
         }
@@ -20,7 +21,7 @@ export const TopStoriesBox = ({ stories }) => {
         return list
     }, [])
 
-    const renderSectionDropdown = getSections.map((section, index) => { // renders dropdown
+    const renderSectionDropdown = getSections.map((section, index) => { 
         return <option key={index} value={section}>{section}</option>
     })
 
@@ -36,7 +37,7 @@ export const TopStoriesBox = ({ stories }) => {
         setFilteredStories(filtered)
     }
 
-    const displayCards = () => { // toggles displayed cards via ternary 
+    const displayCards = () => { 
         const displayedStories = filteredStories.length ? filteredStories : stories
         
         return displayedStories.map(story => {

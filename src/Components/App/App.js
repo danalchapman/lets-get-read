@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { TopStoriesBox } from '../TopStoriesBox/TopStoriesBox';
 import { DetailView } from '../DetailView/DetailView'
+import { BadUrl } from '../BadUrl/BadUrl'
 import { getData } from '../../apiCalls'
-import { Switch, Route } from 'react-router-dom';
+import { Switch, Route, Redirect } from 'react-router-dom';
 import './App.css';
 
 export const App = () => {
@@ -29,6 +30,11 @@ export const App = () => {
         <Route exact path='/:title'
           render={ ({ match }) => {
             const singleStory = stories?.find(story => story.title === match.params.title)
+
+            if (!singleStory) {
+              return <Redirect to="/" />;
+            }
+
             return <DetailView 
               key={ singleStory.title }
               title={ singleStory.title }
@@ -40,10 +46,12 @@ export const App = () => {
               updated_date={ singleStory.updated_date }
               multimediaImage={ singleStory.multimedia[1].url }
               multimediaCaption={ singleStory.multimedia[1].caption }
-              shortUrl={ singleStory.shortUrl }
             />
           }} 
         />
+        <Route path='/*'>
+          <BadUrl />
+        </Route>
       </Switch>
     </main>
   )
