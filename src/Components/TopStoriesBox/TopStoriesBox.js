@@ -71,7 +71,7 @@ export const TopStoriesBox = ({ stories }) => {
                 </label>
             </form>
             <div className='stories'>
-                <section className='story-box' tabindex='0'>
+                <section className='story-box' tabIndex='0'>
                     {displayCards()}
                 </section>
             </div>
