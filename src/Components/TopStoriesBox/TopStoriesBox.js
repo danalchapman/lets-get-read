@@ -40,12 +40,14 @@ export const TopStoriesBox = ({ stories }) => {
     const displayCards = () => { 
         const displayedStories = filteredStories.length ? filteredStories : stories
         
-        return displayedStories.map(story => {
+        return displayedStories.map((story, index) => {
             return (
                 <TopStoriesCard 
                     key={story.title}
                     title={story.title}
                     multimedia={story.multimedia[2].url}
+                    abstract={story.abstract}
+                    caption={index}
                 />
             )
         })
@@ -59,7 +61,6 @@ export const TopStoriesBox = ({ stories }) => {
                     htmlFor='section'
                 >
                     Find stories by Topic:
-                </label>
                 <select
                     className='section-dropdown'
                     name='section'
@@ -68,9 +69,10 @@ export const TopStoriesBox = ({ stories }) => {
                     <option value='home'>Home</option>
                     {renderSectionDropdown}
                 </select>
+                </label>
             </form>
             <div className='stories'>
-                <section className='story-box'>
+                <section className='story-box' tabIndex='0'>
                     {displayCards()}
                 </section>
             </div>

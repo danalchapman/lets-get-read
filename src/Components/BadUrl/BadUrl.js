@@ -7,7 +7,7 @@ export const BadUrl = () => {
         <section>
             <p>You've reached an invalid URL. Please try again, or return to the front page.</p>
             <Link to='/'>
-                <button>
+                <button className='return-home'>
                     Return to the Front Page
                 </button>
             </Link>
