@@ -5,6 +5,11 @@
     margin: .5rem;
 }
 
+.detail-thumbnail {
+    max-height: 100%;
+    object-fit: fill;
+}
+
 .byline,
 .section-container,
 .date-container {

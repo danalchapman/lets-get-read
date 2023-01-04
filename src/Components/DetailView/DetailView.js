@@ -28,7 +28,7 @@ export const DetailView = ({
         <article className='detail-view'>
             <h3>{title}</h3>
             <p className='byline'>{byline}</p>
-            <img src={multimediaImage} alt={multimediaCaption} />
+            <img className='detail-thumbnail' src={multimediaImage} alt={multimediaCaption} />
             <div className='section-container'>
                 <p>{section}</p> 
                 { subsection ? <p>{subsection}</p> : null }
