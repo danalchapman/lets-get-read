@@ -1,31 +1,71 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
 import PropTypes from 'prop-types'
 import './TopStoriesBox.css'
 
 export const TopStoriesBox = ({ stories }) => {
 
-    const storyCards = stories.map(story => {
-        return (
-            <TopStoriesCard 
-                key={story.title}
-                title={story.title}
-                multimedia={story.multimedia[2].url}
-            />
-        )
+    const [section, setSection] = useState('')
+    const [filteredStories, setFilteredStories] = useState([])
+
+    useEffect(() => {
+        getFilteredStories() 
+        // eslint-disable-next-line
+    }, [section])
+
+    const getSections = stories.reduce((list, story) => {
+        if (!list.includes(story.section)) {
+            list.push(story.section)
+        }
+        
+        return list
+    }, [])
+
+    const renderSectionDropdown = getSections.map((section, index) => { 
+        return <option key={index} value={section}>{section}</option>
     })
+
+    const getFilteredStories = () => {
+        const filtered = stories.reduce((list, story) => {
+            if (story.section === section) {
+                list.push(story)
+            }
+
+            return list
+        }, [])
+
+        setFilteredStories(filtered)
+    }
+
+    const displayCards = () => { 
+        const displayedStories = filteredStories.length ? filteredStories : stories
+        
+        return displayedStories.map(story => {
+            return (
+                <TopStoriesCard 
+                    key={story.title}
+                    title={story.title}
+                    multimedia={story.multimedia[2].url}
+                />
+            )
+        })
+    }
 
     return (
         <div className='front-page'>
-            <nav className='nav-bar'>
-                <p>Other Stories</p>
-            </nav>
+            <form className='side-bar'>
+                <select
+                    className='section-dropdown'
+                    name='section'
+                    onChange={event => setSection(event.target.value)}
+                >
+                    <option value='home'>Home</option>
+                    {renderSectionDropdown}
+                </select>
+            </form>
             <div className='stories'>
-                <section className='topics'>
-                    <p>Topic</p>
-                </section>
                 <section className='story-box'>
-                    {storyCards}
+                    {displayCards()}
                 </section>
             </div>
         </div>
