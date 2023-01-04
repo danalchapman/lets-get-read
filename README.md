@@ -35,11 +35,11 @@
 
 <br>
 
-<h3 align="center">Screenshot/GIF</h3>
-<p align="center"><img width="500" src="" alt=""></p>
+<h3 align="center">Front Page, Details, Tabbability</h3>
+<p align="center"><img width="500" src="https://media.giphy.com/media/CBNrHb9GEwuzOqyjEM/giphy.gif" alt="Let's Get Read main page and details page with tabbability gif"></p>
 
-<h3 align="center">Screenshot/GIF</h3>
-<p align="center"><img width="500" src="" alt=""></p>
+<h3 align="center">Invalid URL Error Handling</h3>
+<p align="center"><img width="500" src="https://media.giphy.com/media/OU60ew8vcQU9Sr5REl/giphy.gif" alt="Let's Get Read invalid url error handling gif"></p>
 
 <br />
 This take home assignment was assigned during the fourth and final module of Turing's Front-End Engineering program. It's main goal was to give students an opportunity to simulate an actual take home assessment a junior developer may experience during the job hunt. This project includes React, React-Router, Cypress, and more. The details of this project are outlined in <a href="https://mod4.turing.edu/projects/take_home/take_home_fe">this</a> project spec.
@@ -66,21 +66,22 @@ This take home assignment was assigned during the fourth and final module of Tur
 
 ## Roadmap
 
-- [ ] TBD
-- [ ] TBD
+- [ ] Refactor application for syntax and styling consistency
+- [ ] Add in functionality for a User to save an article to be viewed later
+- [ ] Add in a search functionality for a User to search by typing into a search bar
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Features
 
-- 
+- This application utilizes the React framework, with React-Router to add in a multi-page user experience and PropTypes to check data types. Error Handling was implemented in order to handle invalid urls and allows a User to either be redirected to the front page, or be shown a friendly, readable message and a button to return to the front page.
 
 ### Reflections
 <b>Wins:</b><br>
-
+Reaching MVP in around 5 hours was a big win for the overall assessment, being able to utilize the tools and foundational knowledge I've learned during Turing School of Software & Design's Frontend Engineering program and bring a user-friendly and accessible application to life is so fulfilling. When it comes to the code itself, creating and implementing the filter functionality via a dropdown menu that allows a user to see an assortment of top stories from a given topic was a huge win.
 <p>
 <b>Challenges:</b><br>
-
+Making the decision to pivot from implementing Cypress testing before testing for accessibility was a difficult one, but one I fully believe in and am glad I made the choice. I am so passionate about making the online space accessible, and this project still has more to grow but with a 100% in Chrome's Lighthouse and 0 errors in the WAVE tool, I think I've made significant progress.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
