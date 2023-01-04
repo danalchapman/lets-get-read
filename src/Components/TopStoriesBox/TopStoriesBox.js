@@ -40,13 +40,14 @@ export const TopStoriesBox = ({ stories }) => {
     const displayCards = () => { 
         const displayedStories = filteredStories.length ? filteredStories : stories
         
-        return displayedStories.map(story => {
+        return displayedStories.map((story, index) => {
             return (
                 <TopStoriesCard 
                     key={story.title}
                     title={story.title}
                     multimedia={story.multimedia[2].url}
                     abstract={story.abstract}
+                    caption={index}
                 />
             )
         })
@@ -54,7 +55,7 @@ export const TopStoriesBox = ({ stories }) => {
 
     return (
         <div className='front-page'>
-            <form className='side-bar' label='section-dropdown'>
+            <form className='side-bar'>
                 <label 
                     className='section-label' 
                     htmlFor='section'
