@@ -6,11 +6,11 @@ import './TopStoriesBox.css'
 export const TopStoriesBox = ({ stories }) => {
 
     const [section, setSection] = useState('')
-    const [filteredSections, setFilteredSections] = useState([])
+    const [filteredStories, setFilteredStories] = useState([])
 
     useEffect(() => {
-        setFilteredSections(section)
-    }, [])
+        getFilteredStories()
+    }, [section])
 
     const getSections = stories.reduce((list, story) => { // creates a sections array
         if (!list.includes(story.section)) {
@@ -24,8 +24,21 @@ export const TopStoriesBox = ({ stories }) => {
         return <option key={index} value={section}>{section}</option>
     })
 
+    const getFilteredStories = () => {
+        const filtered = stories.reduce((list, story) => {
+            if (story.section === section) {
+                list.push(story)
+            }
+
+            return list
+        }, [])
+
+        setFilteredStories(filtered)
+    }
+
     const displayCards = () => { // toggles displayed cards via ternary 
-        const displayedStories = filteredSections.length ? filteredSections : stories
+        const displayedStories = filteredStories.length ? filteredStories : stories
+        
         return displayedStories.map(story => {
             return (
                 <TopStoriesCard 
