@@ -54,6 +54,12 @@ export const TopStoriesBox = ({ stories }) => {
     return (
         <div className='front-page'>
             <form className='side-bar'>
+                <label 
+                    className='section-label' 
+                    htmlFor='section'
+                >
+                    Find stories by Topic:
+                </label>
                 <select
                     className='section-dropdown'
                     name='section'

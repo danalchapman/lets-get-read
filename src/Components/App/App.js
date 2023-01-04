@@ -19,7 +19,7 @@ export const App = () => {
 
   return (
     <main className='main-page'>
-      <h1>Let's Get Read</h1>
+      <h1 className='title'>Let's Get Read</h1>
       { error && <h2>{error}</h2> }
       <Switch>
         <Route exact path='/'>
@@ -46,6 +46,7 @@ export const App = () => {
               updated_date={ singleStory.updated_date }
               multimediaImage={ singleStory.multimedia[1].url }
               multimediaCaption={ singleStory.multimedia[1].caption }
+              url={ singleStory.url }
             />
           }} 
         />

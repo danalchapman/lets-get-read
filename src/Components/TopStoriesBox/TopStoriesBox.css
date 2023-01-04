@@ -1,19 +1,38 @@
 .front-page {
     display: flex;
-    height: 90vh;
+    height: 85vh;
     overflow-y: scroll;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+
+.front-page::-webkit-scrollbar {
+    display: none;
 }
 
 .side-bar {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-evenly;
     width: 20%;
 }
 
+.section-label {
+    font-size: 16px;
+}
+
+.section-dropdown {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 90%;
+}
+
 .stories {
-    width: 100vw;
+    width: 80%;
 }
 
 .story-box {
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-around; */
 }
