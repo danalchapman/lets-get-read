@@ -1,4 +1,8 @@
 .main-page {
+    background-attachment: fixed;
+    background-image: url('../../Assets/leaves.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
     overflow-x: scroll;
     scrollbar-width: none;  /* Firefox */
@@ -7,4 +11,8 @@
 
 .main-page::-webkit-scrollbar {
     display: none;
+}
+
+.title {
+    text-align: center;
 }
