@@ -46,6 +46,7 @@ export const App = () => {
               updated_date={ singleStory.updated_date }
               multimediaImage={ singleStory.multimedia[1].url }
               multimediaCaption={ singleStory.multimedia[1].caption }
+              url={ singleStory.url }
             />
           }} 
         />
