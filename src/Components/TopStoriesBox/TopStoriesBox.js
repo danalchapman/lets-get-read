@@ -54,7 +54,7 @@ export const TopStoriesBox = ({ stories }) => {
 
     return (
         <div className='front-page'>
-            <form className='side-bar'>
+            <form className='side-bar' label='section-dropdown'>
                 <label 
                     className='section-label' 
                     htmlFor='section'
@@ -71,7 +71,7 @@ export const TopStoriesBox = ({ stories }) => {
                 </label>
             </form>
             <div className='stories'>
-                <section className='story-box'>
+                <section className='story-box' tabindex='0'>
                     {displayCards()}
                 </section>
             </div>

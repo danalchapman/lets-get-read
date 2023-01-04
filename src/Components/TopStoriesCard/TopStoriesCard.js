@@ -12,7 +12,7 @@ export const TopStoriesCard = ({ title, multimedia, abstract }) => {
                 src={multimedia}
                 alt='Still from the article'
             />
-            <p className='card-title'>{title}</p>
+            <p className='card-title' tabindex='0'>{title}</p>
         </NavLink>
     )
 }
