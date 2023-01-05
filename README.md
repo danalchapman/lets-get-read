@@ -16,6 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#organization">Organization</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -45,7 +46,25 @@
 <p align="center"><img width="500" src="https://media.giphy.com/media/OU60ew8vcQU9Sr5REl/giphy.gif" alt="Let's Get Read invalid url error handling gif"></p>
 
 <br />
+Let's Get Read is a news-reader application utilizing the New York Times Top Stories API that allows a user to view the top stories from the New York Times website, see further details of a specific story, and filter the different stories by section via a dropdown menu. The overall time goal was to complete the MVP between 6-8 hours. MVP was reached in roughly 5 hours with the last 1-2 hours being spent refactoring, styling, and testing accessibility.
+<br />
+<br />
 This take home assignment was assigned during the fourth and final module of Turing School of Software & Design's Front-End Engineering program. It's main goal was to give students an opportunity to simulate a take home assessment a junior developer may experience during the job hunt. This project includes React, React-Router, and more. The details of this project are outlined in <a href="https://mod4.turing.edu/projects/take_home/take_home_fe">this</a> project spec.
+
+### Organization
+
+- [MVP Document](https://docs.google.com/document/d/1-JtURyxsNPA-oAYqSkOnX2DYhMUOQ4dgZQpS8F2Ps44/edit?usp=sharing)  
+- [Notion Document](https://flower-gravity-d1c.notion.site/Take-Home-Project-85205f19c89a404e8a02f05a59b85087) for general notes, link-grouping, and time-boxing of the project
+- [Project Board](https://github.com/users/danalchapman/projects/2/views/1)
+- [Figma JamBoard](https://www.figma.com/file/WufaC4yhWY7TSFpjkQ8hQX/Mod-4-%7C%7C-Take-Home-Wireframe?node-id=0%3A1&t=g8nKXDf5VV1AynJL-1)
+
+<h3 align="center">Component Architecture</h3>
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/105478792/210889817-7203b500-9016-492e-ad27-2758324c3975.png" alt="Component Architecture"></p>
+
+<h3 align="center">Initial Wireframe</h3>
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/105478792/210890219-404ff6e8-6fe1-4e6c-b82c-1ff42ac61ae3.png" alt="Wireframe"></p>
+
+I utilized Figma's Jamboard for the Component Architecture and general Wireframe for the project. Throughout the course of reaching MVP I made minor adjustments to the wireframe, specifically with the `DetailView` component where I made the decision to turn the `NavBar` component into a `form` element on `TopStoriesBox` for ease of user interaction - when a user is on `DetailView` the dropdown menu is no longer visible until they return to the front page.
 
 ### Built With
 
@@ -63,16 +82,16 @@ This take home assignment was assigned during the fourth and final module of Tur
 - Clone the repository to your local machine
 - `cd` into the repository
 - Make sure the necessary dependencies are installed on your local machine (`react-router-dom`, `cypress`)
-- Once the necessary dependencies are installed, `cd` back into the root of the repository, and run `npm start`
+- Once the necessary dependencies are installed, run `npm start`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
 
-- [ ] Refactor application for syntax and styling consistency
 - [ ] Add in functionality for a User to save an article to be viewed later
 - [ ] Add in a search functionality for a User to search by typing into a search bar
 - [ ] Cypress Testing
+- [ ] Dark Mode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
