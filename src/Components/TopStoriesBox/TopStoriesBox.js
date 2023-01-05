@@ -3,6 +3,8 @@ import { TopStoriesCard } from '../TopStoriesCard/TopStoriesCard'
 import PropTypes from 'prop-types'
 import './TopStoriesBox.css'
 
+const nytImage = require('../../Assets/nyt.jpg')
+
 export const TopStoriesBox = ({ stories }) => {
 
     const [section, setSection] = useState('')
@@ -45,7 +47,7 @@ export const TopStoriesBox = ({ stories }) => {
                 <TopStoriesCard 
                     key={ story.title }
                     title={ story.title }
-                    multimedia={ story.multimedia[2].url }
+                    multimedia={ !story.multimedia ? nytImage : story.multimedia[2].url }
                     abstract={ story.abstract }
                     caption={ index }
                 />
