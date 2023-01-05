@@ -22,7 +22,7 @@ export const TopStoriesBox = ({ stories }) => {
     }, [])
 
     const renderSectionDropdown = getSections.map((section, index) => { 
-        return <option key={index} value={section}>{section}</option>
+        return <option key={ index } value={ section }>{ section }</option>
     })
 
     const getFilteredStories = () => {
@@ -43,11 +43,11 @@ export const TopStoriesBox = ({ stories }) => {
         return displayedStories.map((story, index) => {
             return (
                 <TopStoriesCard 
-                    key={story.title}
-                    title={story.title}
-                    multimedia={story.multimedia[2].url}
-                    abstract={story.abstract}
-                    caption={index}
+                    key={ story.title }
+                    title={ story.title }
+                    multimedia={ story.multimedia[2].url }
+                    abstract={ story.abstract }
+                    caption={ index }
                 />
             )
         })
@@ -67,13 +67,13 @@ export const TopStoriesBox = ({ stories }) => {
                     onChange={event => setSection(event.target.value)}
                 >
                     <option value='home'>Home</option>
-                    {renderSectionDropdown}
+                    { renderSectionDropdown }
                 </select>
                 </label>
             </form>
             <div className='stories'>
                 <section className='story-box' tabIndex='0'>
-                    {displayCards()}
+                    { displayCards() }
                 </section>
             </div>
         </div>

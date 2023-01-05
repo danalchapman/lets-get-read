@@ -20,7 +20,7 @@ export const App = () => {
   return (
     <main className='main-page'>
       <h1 className='title'>Let's Get Read</h1>
-      { error && <h2>{error}</h2> }
+      { error && <h2>{ error }</h2> }
       <Switch>
         <Route exact path='/'>
           <TopStoriesBox 
