@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center">Front Page, Details, Tabbability</h3>
+<h3 align="center">Front Page</h3>
 <p align="center"><img width="500" src="https://media.giphy.com/media/CBNrHb9GEwuzOqyjEM/giphy.gif" alt="Let's Get Read main page and details page with tabbability gif"></p>
 
 <h3 align="center">Invalid URL Error Handling</h3>
