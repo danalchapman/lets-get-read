@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import { TopStoriesBox } from '../TopStoriesBox/TopStoriesBox';
+import React, { useEffect, useState } from 'react'
+import { TopStoriesBox } from '../TopStoriesBox/TopStoriesBox'
 import { DetailView } from '../DetailView/DetailView'
 import { BadUrl } from '../BadUrl/BadUrl'
 import { getData } from '../../apiCalls'
-import { Switch, Route, Redirect } from 'react-router-dom';
-import './App.css';
+import { Switch, Route, Redirect } from 'react-router-dom'
+import './App.css'
 
 export const App = () => {
 
