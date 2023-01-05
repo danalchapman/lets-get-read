@@ -42,7 +42,7 @@
 <p align="center"><img width="500" src="https://media.giphy.com/media/OU60ew8vcQU9Sr5REl/giphy.gif" alt="Let's Get Read invalid url error handling gif"></p>
 
 <br />
-This take home assignment was assigned during the fourth and final module of Turing's Front-End Engineering program. It's main goal was to give students an opportunity to simulate an actual take home assessment a junior developer may experience during the job hunt. This project includes React, React-Router, Cypress, and more. The details of this project are outlined in <a href="https://mod4.turing.edu/projects/take_home/take_home_fe">this</a> project spec.
+This take home assignment was assigned during the fourth and final module of Turing School of Software & Design's Front-End Engineering program. It's main goal was to give students an opportunity to simulate a take home assessment a junior developer may experience during the job hunt. This project includes React, React-Router, and more. The details of this project are outlined in <a href="https://mod4.turing.edu/projects/take_home/take_home_fe">this</a> project spec.
 
 ### Built With
 
@@ -69,6 +69,7 @@ This take home assignment was assigned during the fourth and final module of Tur
 - [ ] Refactor application for syntax and styling consistency
 - [ ] Add in functionality for a User to save an article to be viewed later
 - [ ] Add in a search functionality for a User to search by typing into a search bar
+- [ ] Cypress Testing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
