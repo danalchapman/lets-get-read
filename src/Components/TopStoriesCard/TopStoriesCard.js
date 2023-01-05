@@ -6,13 +6,13 @@ import './TopStoriesCard.css'
 export const TopStoriesCard = ({ title, multimedia, abstract, caption }) => {
     
     return (
-        <NavLink to={`/${abstract}`} className='story-card'>
+        <NavLink to={`/${ abstract }`} className='story-card'>
             <img 
                 className='card-img'
-                src={multimedia}
-                alt={`thumbnail from index ${caption} NYT article`}
+                src={ multimedia }
+                alt={`thumbnail from index ${ caption } NYT article`}
             />
-            <p className='card-title' tabIndex='0'>{title}</p>
+            <p className='card-title' tabIndex='0'>{ title }</p>
         </NavLink>
     )
 }
