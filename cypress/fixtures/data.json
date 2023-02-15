@@ -1,0 +1,1797 @@
+
+{
+
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2023-02-15T15:32:41-05:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "U.S. on Track to Add $19 Trillion in New Debt Over 10 Years",
+            "abstract": "Congressional Budget Office projections released on Wednesday suggested rising interest rates and bipartisan spending bills are adding to deficits, amid a partisan fight on fiscal policy.",
+            "url": "https://www.nytimes.com/2023/02/15/business/national-debt-biden.html",
+            "uri": "nyt://article/539e2135-2140-5808-b383-06bbfbede654",
+            "byline": "By Jim Tankersley and Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T14:24:12-05:00",
+            "created_date": "2023-02-15T14:00:15-05:00",
+            "published_date": "2023-02-15T14:00:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "Federal Budget (US)",
+                "Law and Legislation",
+                "National Debt (US)",
+                "United States Politics and Government",
+                "Inflation (Economics)",
+                "Stimulus (Economic)",
+                "Tax Credits, Deductions and Exemptions",
+                "Veterans"
+            ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-deficit-hwjl/15dc-deficit-hwjl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the next decade, the budget forecasts found, tax receipts will fail to keep pace with the rising costs of Social Security and Medicare benefits for retiring baby boomers.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-deficit-hwjl/15dc-deficit-hwjl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the next decade, the budget forecasts found, tax receipts will fail to keep pace with the rising costs of Social Security and Medicare benefits for retiring baby boomers.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-deficit-hwjl/15dc-deficit-hwjl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the next decade, the budget forecasts found, tax receipts will fail to keep pace with the rising costs of Social Security and Medicare benefits for retiring baby boomers.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3YPTldB"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "C.B.O. Warns of Possible Default Between July and September",
+            "abstract": "The nonpartisan budget office also said that if tax receipts fall short of projections, and Congress fails to act on the debt limit, the U.S. could run out of cash before July.",
+            "url": "https://www.nytimes.com/2023/02/15/us/politics/default-debt-limit-cbo-report.html",
+            "uri": "nyt://article/0011c6f4-5d9e-5a50-80fd-39f4674094b3",
+            "byline": "By Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:28:36-05:00",
+            "created_date": "2023-02-15T14:00:19-05:00",
+            "published_date": "2023-02-15T14:00:19-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "National Debt (US)",
+                "Economic Conditions and Trends",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Congressional Budget Office",
+                "Treasury Department"
+            ],
+            "per_facet": [
+                "Yellen, Janet L"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-debtlimit-jbtw/15dc-debtlimit-jbtw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Treasury Secretary Janet Yellen has already been employing extraordinary measures to keep the government running.",
+                    "copyright": "Sarah Silbiger for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-debtlimit-jbtw/15dc-debtlimit-jbtw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Treasury Secretary Janet Yellen has already been employing extraordinary measures to keep the government running.",
+                    "copyright": "Sarah Silbiger for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-debtlimit-jbtw/15dc-debtlimit-jbtw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Treasury Secretary Janet Yellen has already been employing extraordinary measures to keep the government running.",
+                    "copyright": "Sarah Silbiger for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/40XeEM8"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast",
+            "abstract": "New budget projections show that the program’s spending is outpacing tax revenues as an aging population claims benefits.",
+            "url": "https://www.nytimes.com/2023/02/15/us/politics/social-security-costs-biden-republicans.html",
+            "uri": "nyt://article/7043deff-3f76-5ef7-b06f-c7e567a83875",
+            "byline": "By Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T14:01:21-05:00",
+            "created_date": "2023-02-15T05:00:26-05:00",
+            "published_date": "2023-02-15T05:00:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Security (US)",
+                "Politics and Government",
+                "United States Politics and Government",
+                "National Debt (US)",
+                "Medicare",
+                "Retirement"
+            ],
+            "org_facet": [
+                "Congressional Budget Office",
+                "Republican Party"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-socialsecurity-01-cbvj/15dc-socialsecurity-01-cbvj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden has forced Republican leaders to profess, repeatedly, that they will not seek cuts to Social Security and Medicare.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-socialsecurity-01-cbvj/15dc-socialsecurity-01-cbvj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden has forced Republican leaders to profess, repeatedly, that they will not seek cuts to Social Security and Medicare.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-socialsecurity-01-cbvj/15dc-socialsecurity-01-cbvj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden has forced Republican leaders to profess, repeatedly, that they will not seek cuts to Social Security and Medicare.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lCM2Ys"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Biden’s I.R.S. Nominee Is Grilled About $80 Billion Overhaul",
+            "abstract": "Daniel Werfel defended the administration’s plan to modernize the agency during his confirmation hearing.",
+            "url": "https://www.nytimes.com/2023/02/15/business/irs-daniel-werfel-hearing.html",
+            "uri": "nyt://article/795099ae-6ea7-5c1b-b4cb-ad9efe70946c",
+            "byline": "By Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:20:21-05:00",
+            "created_date": "2023-02-15T05:00:23-05:00",
+            "published_date": "2023-02-15T05:00:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Internal Revenue Service Political Profiling",
+                "Taxation",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Internal Revenue Service",
+                "Senate Committee on Finance"
+            ],
+            "per_facet": [
+                "Werfel, Daniel I",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-irs-sub-bqpt/15dc-irs-sub-bqpt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daniel Werfel said on Wednesday that improving taxpayer service and rebuilding the nation’s trust would be his priorities.",
+                    "copyright": "Shuran Huang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-irs-sub-bqpt/15dc-irs-sub-bqpt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daniel Werfel said on Wednesday that improving taxpayer service and rebuilding the nation’s trust would be his priorities.",
+                    "copyright": "Shuran Huang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-irs-sub-bqpt/15dc-irs-sub-bqpt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daniel Werfel said on Wednesday that improving taxpayer service and rebuilding the nation’s trust would be his priorities.",
+                    "copyright": "Shuran Huang for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/40VNCoo"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In Bleak Russian Cemetery, Sea of Crosses Signals War’s True Toll",
+            "abstract": "A dismal, snowy plot near the Black Sea is the final resting place for more and more soldiers from the Wagner mercenary forces, a testament to the huge casualties Russia is suffering in its invasion.",
+            "url": "https://www.nytimes.com/2023/02/15/world/europe/wagner-russia-cemetery.html",
+            "uri": "nyt://article/e4de2def-c871-5a50-8020-81e0da38ad62",
+            "byline": "By Valerie Hopkins and Nanna Heitmann",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T09:30:39-05:00",
+            "created_date": "2023-02-15T05:00:31-05:00",
+            "published_date": "2023-02-15T05:00:31-05:00",
+            "material_type_facet": "",
+            "kicker": "Russia Dispatch",
+            "des_facet": [
+                "Cemeteries",
+                "Mercenaries and Private Military Contractors",
+                "Russian Invasion of Ukraine (2022)",
+                "Funerals and Memorials"
+            ],
+            "org_facet": [
+                "Wagner Group"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Krasnodar (Russia)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15wagner-graveyard-promo/15wagner-graveyard-01-gmkz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Graves of fallen Russian soldiers from the Wagner mercenary forces on the outskirts of Bakinskaya, a town in Russia, as seen this month.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15wagner-graveyard-promo/15wagner-graveyard-01-gmkz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Graves of fallen Russian soldiers from the Wagner mercenary forces on the outskirts of Bakinskaya, a town in Russia, as seen this month.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15wagner-graveyard-promo/15wagner-graveyard-01-gmkz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Graves of fallen Russian soldiers from the Wagner mercenary forces on the outskirts of Bakinskaya, a town in Russia, as seen this month.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E3ZafB"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Heavy Losses Renew Questions About Russia Sustaining Its Offensive",
+            "abstract": "The fighting has also come at a cost for Ukraine, which is expending vast amounts of ammunition to repel Russia’s growing numbers of ground troops,",
+            "url": "https://www.nytimes.com/2023/02/15/world/europe/russia-ukraine-vuhledar-offensive.html",
+            "uri": "nyt://article/b0797de8-8e6d-5e60-982b-10d81cec5f9d",
+            "byline": "By Marc Santora",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T12:30:30-05:00",
+            "created_date": "2023-02-15T08:03:09-05:00",
+            "published_date": "2023-02-15T08:03:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Wagner Group"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "Vuhledar (Ukraine)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15ukraine-briefing-vuhlehar-gtmv/15ukraine-briefing-vuhlehar-gtmv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aerial view of the city of Vuhledar this month.",
+                    "copyright": "Libkos/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15ukraine-briefing-vuhlehar-gtmv/15ukraine-briefing-vuhlehar-gtmv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aerial view of the city of Vuhledar this month.",
+                    "copyright": "Libkos/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15ukraine-briefing-vuhlehar-gtmv/15ukraine-briefing-vuhlehar-gtmv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aerial view of the city of Vuhledar this month.",
+                    "copyright": "Libkos/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EwTwD5"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Justice Dept. Won’t Bring Charges Against Gaetz in Sex-Trafficking Inquiry, Lawyers Say",
+            "abstract": "An investigation had examined whether Representative Matt Gaetz broke federal laws, focusing on his relationships with women recruited online, and whether he had sex with a 17-year-old girl.",
+            "url": "https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html",
+            "uri": "nyt://article/a85d0cb9-bf56-5c72-af2d-f466a5e4e297",
+            "byline": "By Glenn Thrush",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:17:44-05:00",
+            "created_date": "2023-02-15T13:22:17-05:00",
+            "published_date": "2023-02-15T13:22:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Sex Crimes"
+            ],
+            "org_facet": [
+                "Justice Department",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Gaetz, Matt",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-gaetz-gwqc/15dc-gaetz-gwqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2021, federal prosecutors began examining whether Mr. Gaetz, a close ally of former President Donald J. Trump, broke federal sex-trafficking laws.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-gaetz-gwqc/15dc-gaetz-gwqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2021, federal prosecutors began examining whether Mr. Gaetz, a close ally of former President Donald J. Trump, broke federal sex-trafficking laws.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15dc-gaetz-gwqc/15dc-gaetz-gwqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2021, federal prosecutors began examining whether Mr. Gaetz, a close ally of former President Donald J. Trump, broke federal sex-trafficking laws.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/40YLTi1"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "State Senate Rejects Nominee for Chief Judge in Defeat for Hochul",
+            "abstract": "Justice Hector LaSalle, Gov. Kathy Hochul’s divisive nominee, failed to overcome opposition from the Democrats who control the State Senate.",
+            "url": "https://www.nytimes.com/2023/02/15/nyregion/hector-lasalle-chief-judge-vote.html",
+            "uri": "nyt://article/5927f4d4-c57c-51f9-b2ec-411b6f8b13a9",
+            "byline": "By Luis Ferré-Sadurní",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:29:38-05:00",
+            "created_date": "2023-02-15T12:32:13-05:00",
+            "published_date": "2023-02-15T12:32:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Courts and the Judiciary",
+                "State Legislatures",
+                "Politics and Government",
+                "Suits and Litigation (Civil)",
+                "Constitutions"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "LaSalle, Hector D",
+                "Hochul, Kathleen C"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15judge-lasalle-cphz/15judge-lasalle-cphz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The nomination of Justice Hector LaSalle had already been rejected in a 10-9 vote by the State Senate’s judiciary committee. His defeat by the full Senate marks a first in the chamber’s history.",
+                    "copyright": "Cindy Schultz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15judge-lasalle-cphz/15judge-lasalle-cphz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The nomination of Justice Hector LaSalle had already been rejected in a 10-9 vote by the State Senate’s judiciary committee. His defeat by the full Senate marks a first in the chamber’s history.",
+                    "copyright": "Cindy Schultz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15judge-lasalle-cphz/15judge-lasalle-cphz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The nomination of Justice Hector LaSalle had already been rejected in a 10-9 vote by the State Senate’s judiciary committee. His defeat by the full Senate marks a first in the chamber’s history.",
+                    "copyright": "Cindy Schultz for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3RYu2nu"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Buffalo Gunman Sentenced to Life in Emotional and Dramatic Hearing",
+            "abstract": "During a statement from a victim’s relative, a member of the court audience had to be restrained after lunging at the gunman.",
+            "url": "https://www.nytimes.com/2023/02/15/nyregion/buffalo-shooting-gunman-sentencing.html",
+            "uri": "nyt://article/d5ac4011-c405-54aa-a528-ccccf4592442",
+            "byline": "By Jesse McKinley and Dan Higgins",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T14:53:31-05:00",
+            "created_date": "2023-02-15T05:00:22-05:00",
+            "published_date": "2023-02-15T05:00:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Buffalo, NY, Shooting (May 14, 2022)",
+                "Mass Shootings",
+                "Murders, Attempted Murders and Homicides",
+                "Black People",
+                "Terrorism",
+                "Race and Ethnicity",
+                "Hate Crimes"
+            ],
+            "org_facet": [
+                "Tops Friendly Markets"
+            ],
+            "per_facet": [
+                "Gendron, Payton S"
+            ],
+            "geo_facet": [
+                "Buffalo (NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/27/nyregion/15-buffalo-massacre/00buffalo-chaney66-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impromptu memorial outside the Tops grocery where 10 people were killed in Buffalo.",
+                    "copyright": "Gabriela Bhaskar/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/27/nyregion/15-buffalo-massacre/00buffalo-chaney66-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impromptu memorial outside the Tops grocery where 10 people were killed in Buffalo.",
+                    "copyright": "Gabriela Bhaskar/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/27/nyregion/15-buffalo-massacre/15-buffalo-massacre-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impromptu memorial outside the Tops grocery where 10 people were killed in Buffalo.",
+                    "copyright": "Gabriela Bhaskar/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3In3Way"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica",
+            "abstract": "A robot lowered through the ice reveals how the Thwaites shelf is melting, which will help forecast its effect on global sea level.",
+            "url": "https://www.nytimes.com/2023/02/15/climate/thwaites-antarctica-melting-robot.html",
+            "uri": "nyt://article/381f6d4b-dcbd-5f54-bd49-8c5e8167aa38",
+            "byline": "By Henry Fountain",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T12:37:03-05:00",
+            "created_date": "2023-02-15T11:00:13-05:00",
+            "published_date": "2023-02-15T11:00:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Research",
+                "Glaciers",
+                "Ice",
+                "Oceans and Seas"
+            ],
+            "org_facet": [
+                "British Antarctic Survey"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "Antarctic Regions"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1524,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Anker/British Antarctic Survey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Anker/British Antarctic Survey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/autossell/15cli-antarctica-vidcover1/15cli-antarctica-vidcover1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Paul Anker/British Antarctic Survey"
+                }
+            ],
+            "short_url": "https://nyti.ms/3KdwN2j"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Raquel Welch, Actress and ’60s Sex Symbol, Is Dead at 82",
+            "abstract": "Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.",
+            "url": "https://www.nytimes.com/2023/02/15/movies/raquel-welch-dead.html",
+            "uri": "nyt://article/19dc7bcc-ca67-543d-aaa1-eb3823f1b9dc",
+            "byline": "By Anita Gates",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:23:06-05:00",
+            "created_date": "2023-02-15T15:23:06-05:00",
+            "published_date": "2023-02-15T15:23:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Actors and Actresses",
+                "Nineteen Hundred Sixties",
+                "One Million Years B.C. (Movie)",
+                "The Three Musketeers (Movie)",
+                "Fantastic Voyage (Movie)"
+            ],
+            "org_facet": [ ],
+            "per_facet": [
+                "Welch, Raquel"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/obituaries/15welch1/15welch1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1586,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Playboy in 1998 named the 100 sexiest female stars of the 20th century, Raquel Welch came in third, after Marilyn Monroe and Jayne Mansfield. ",
+                    "copyright": "Sunset Boulevard/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/obituaries/15welch1/15welch1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Playboy in 1998 named the 100 sexiest female stars of the 20th century, Raquel Welch came in third, after Marilyn Monroe and Jayne Mansfield. ",
+                    "copyright": "Sunset Boulevard/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/obituaries/15welch1/15welch1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Playboy in 1998 named the 100 sexiest female stars of the 20th century, Raquel Welch came in third, after Marilyn Monroe and Jayne Mansfield. ",
+                    "copyright": "Sunset Boulevard/Corbis, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3k0zGZD"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "In Majority-Black New Orleans, Chefs Are Rewriting ‘Whitewashed’ History",
+            "abstract": "A new generation is exploring how the city’s celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking.",
+            "url": "https://www.nytimes.com/2023/02/14/dining/black-chefs-new-orleans-history.html",
+            "uri": "nyt://article/766df88b-e907-5f55-b174-dbd6272fde2d",
+            "byline": "By Brett Anderson and Rita Harper",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T12:26:46-05:00",
+            "created_date": "2023-02-14T05:00:53-05:00",
+            "published_date": "2023-02-14T05:00:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Chefs",
+                "Black People",
+                "Restaurants",
+                "Cooking and Cookbooks"
+            ],
+            "org_facet": [ ],
+            "per_facet": [
+                "Bailey, Mashama (Chef)",
+                "Compton, Nina (Chef)",
+                "Gourdet, Gregory (1975- )",
+                "Onwuachi, Kwame",
+                "Chase, Leah",
+                "Lagasse, Emeril",
+                "Prudhomme, Paul (1940-2015)",
+                "Mbaye, Serigne"
+            ],
+            "geo_facet": [
+                "New Orleans (La)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1425,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city’s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city’s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/multimedia/13nola-chefs01-ktfh/13nola-chefs01-ktfh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Orleans chefs, restaurateurs and scholars have been rethinking the city’s culinary history. Front row, from left: Serigne Mbaye, Afua Richardson, Nina Compton, Lisa Nelson, Zella Palmer, Martha Wiggins, Edgar Chase IV. Back row, from left: Prince Lobo, Dr. Howard Conyers, Robert Manos, Charly Pierre.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3HV8GCV"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Before the Gunfire, It Was Their Glittering ‘Dancing Star’",
+            "abstract": "The mass shooting in Monterey Park threatened a community of ballroom dancers who share a rich history. They hope to find a way to carry on.",
+            "url": "https://www.nytimes.com/2023/02/15/us/california-monterey-park-shooting-dance-community.html",
+            "uri": "nyt://article/b91b2a47-061b-58a7-9969-f0c65e95f573",
+            "byline": "By Corina Knoll, Isabelle Qian and Li Qiang",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T13:58:51-05:00",
+            "created_date": "2023-02-15T11:31:48-05:00",
+            "published_date": "2023-02-15T11:31:48-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Monterey Park, Calif, Shooting (Jan, 2023)",
+                "internal-sub-only",
+                "Dancing",
+                "Asian-Americans",
+                "vis-photo"
+            ],
+            "org_facet": [
+                "Lai Lai Ballroom & Studio (Alhambra, Calif)"
+            ],
+            "per_facet": [
+                "Tsay, Brandon"
+            ],
+            "geo_facet": [
+                "Alhambra (Calif)",
+                "Monterey Park (Calif)",
+                "Los Angeles (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15nat-monterey-dance-promo/cphk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Li Qiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15nat-monterey-dance-promo/cphk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Li Qiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15nat-monterey-dance-promo/15nat-monterey-dance-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Li Qiang for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E9z9v8"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Thai Soccer Player Who Survived Cave Flooding Dies at 17",
+            "abstract": "Duangphet Promthep, 17, was a member of the soccer team that escaped from a submerged cave in Thailand in 2018 and later attended a soccer academy in England. The cause of his death was unclear.",
+            "url": "https://www.nytimes.com/2023/02/15/world/europe/thai-cave-rescue-soccer-captain-dead.html",
+            "uri": "nyt://article/325ac836-2367-5a6f-a16e-008523114841",
+            "byline": "By Isabella Kwai and Muktita Suhartono",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T14:58:40-05:00",
+            "created_date": "2023-02-15T06:56:02-05:00",
+            "published_date": "2023-02-15T06:56:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Soccer",
+                "Deaths (Obituaries)",
+                "Football (College)"
+            ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "England",
+                "Tham Luang Nang Non Cave (Thailand)",
+                "Thailand"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15uk-thai-hgwz/15uk-thai-hgwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1340,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Duangpetch Promthep, one of the boys rescued from the flooded cave in northern Thailand, with relatives after his return home in 2018.",
+                    "copyright": "Sakchai Lalit/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15uk-thai-hgwz/15uk-thai-hgwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Duangpetch Promthep, one of the boys rescued from the flooded cave in northern Thailand, with relatives after his return home in 2018.",
+                    "copyright": "Sakchai Lalit/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15uk-thai-hgwz/15uk-thai-hgwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Duangpetch Promthep, one of the boys rescued from the flooded cave in northern Thailand, with relatives after his return home in 2018.",
+                    "copyright": "Sakchai Lalit/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/410PKv1"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Oldest Nearly Complete Hebrew Bible Heads to Auction",
+            "abstract": "The Codex Sassoon, believed to date from the late ninth or early 10th century, is set to be sold by Sotheby’s for an estimated $30 million to $50 million.",
+            "url": "https://www.nytimes.com/2023/02/15/arts/hebrew-bible-auction-sothebys.html",
+            "uri": "nyt://article/1d366245-0081-5634-bd96-d1da3104d0d6",
+            "byline": "By Jennifer Schuessler",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:15:12-05:00",
+            "created_date": "2023-02-15T11:55:44-05:00",
+            "published_date": "2023-02-15T11:55:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Auctions",
+                "Bible",
+                "Jews and Judaism",
+                "Books and Literature"
+            ],
+            "org_facet": [
+                "Sotheby's"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15sothebys-codex1-vpcj/15sothebys-codex1-vpcj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Codex Sassoon, headed for auction in May, is considered the oldest nearly complete Hebrew Bible.",
+                    "copyright": "Eric Helgas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15sothebys-codex1-vpcj/15sothebys-codex1-vpcj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Codex Sassoon, headed for auction in May, is considered the oldest nearly complete Hebrew Bible.",
+                    "copyright": "Eric Helgas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15sothebys-codex1-vpcj/15sothebys-codex1-vpcj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Codex Sassoon, headed for auction in May, is considered the oldest nearly complete Hebrew Bible.",
+                    "copyright": "Eric Helgas for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Yz6V5q"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "A Love Letter to Libraries, Long Overdue",
+            "abstract": "The New York Times sent photographers to seven states to document the thrum and buzz in buildings once known for silence.",
+            "url": "https://www.nytimes.com/2023/02/14/books/review/library-public-local.html",
+            "uri": "nyt://article/a6a9dbf9-f5df-5037-ab47-c6aa6d6487b2",
+            "byline": "By Elisabeth Egan and Erica Ackerberg",
+            "item_type": "Article",
+            "updated_date": "2023-02-14T07:23:16-05:00",
+            "created_date": "2023-02-14T05:01:02-05:00",
+            "published_date": "2023-02-14T05:01:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Libraries and Librarians",
+                "Books and Literature"
+            ],
+            "org_facet": [
+                "American Library Assn"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Siblings explored the children’s room at the Bemidji Public Library in Bemidji, Minn.",
+                    "copyright": "Jaida Grey Eagle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Siblings explored the children’s room at the Bemidji Public Library in Bemidji, Minn.",
+                    "copyright": "Jaida Grey Eagle for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19libraries-print7-gtjv/19libraries-print7-gtjv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Siblings explored the children’s room at the Bemidji Public Library in Bemidji, Minn.",
+                    "copyright": "Jaida Grey Eagle for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Imkak1"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "‘Nikki Haley Will Not Be the Next President’: Our Columnists Weigh In",
+            "abstract": "A new scorecard looks at the strengths and weaknesses of Republican presidential candidates.",
+            "url": "https://www.nytimes.com/2023/02/15/opinion/nikki-haley-president.html",
+            "uri": "nyt://article/6cb34d88-43db-5ac0-b51f-4a967acc3f48",
+            "byline": "By New York Times Opinion",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T07:19:27-05:00",
+            "created_date": "2023-02-15T05:00:14-05:00",
+            "published_date": "2023-02-15T05:00:14-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "United States Politics and Government",
+                "Elections",
+                "Politics and Government",
+                "Primaries and Caucuses",
+                "Conservatism (US Politics)",
+                "Presidential Election of 2024",
+                "Vice Presidents and Vice Presidency (US)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Clinton, Hillary Rodham",
+                "DeSantis, Ron",
+                "Haley, Nikki R",
+                "Pence, Mike",
+                "Pompeo, Mike",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "South Carolina",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15haley-scorecard/15haley-scorecard-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 2000,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by belterz and Chris Keane, via Getty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15haley-scorecard/15haley-scorecard-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by belterz and Chris Keane, via Getty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15haley-scorecard/15haley-scorecard-thumbLarge-v2.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by belterz and Chris Keane, via Getty"
+                }
+            ],
+            "short_url": "https://nyti.ms/3IoQZNj"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Law Is Closing In on Trump",
+            "abstract": "The decision whether to indict Trump should be based on the law, not on a fear of the consequences of indicting him.",
+            "url": "https://www.nytimes.com/2023/02/15/opinion/prosecuting-trump.html",
+            "uri": "nyt://article/b89dd582-9c80-540c-a639-5b1ca638c503",
+            "byline": "By David French",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T09:30:59-05:00",
+            "created_date": "2023-02-15T05:00:27-05:00",
+            "published_date": "2023-02-15T05:00:27-05:00",
+            "material_type_facet": "",
+            "kicker": "David French",
+            "des_facet": [
+                "Law and Legislation",
+                "United States Politics and Government",
+                "Ethics and Official Misconduct",
+                "Special Prosecutors (Independent Counsel)"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Pence, Mike"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15French-gpwf/15French-gpwf-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1411,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15French-gpwf/15French-gpwf-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15French-gpwf/15French-gpwf-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Is03kN"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Are Men the Overlooked Reason for the Fertility Decline?",
+            "abstract": "Maybe it’s time to shift focus.",
+            "url": "https://www.nytimes.com/2023/02/15/opinion/fertility-decline.html",
+            "uri": "nyt://article/cf5f0564-dbb0-5405-bdfd-2a4f468fad5f",
+            "byline": "By Jessica Grose",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T07:35:24-05:00",
+            "created_date": "2023-02-15T05:00:14-05:00",
+            "published_date": "2023-02-15T05:00:14-05:00",
+            "material_type_facet": "",
+            "kicker": "Jessica Grose",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Birth Rates"
+            ],
+            "org_facet": [ ],
+            "per_facet": [
+                "Reeves, Richard V"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15grose-newsletter-image/15grose-newsletter-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleanor Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15grose-newsletter-image/15grose-newsletter-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleanor Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/opinion/15grose-newsletter-image/15grose-newsletter-image-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleanor Davis"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Great Spy Balloon Freakout",
+            "abstract": "Fear distorts our actual assessment of risk.",
+            "url": "https://www.nytimes.com/2023/02/15/opinion/spy-balloon-china-fear.html",
+            "uri": "nyt://article/fb9a051a-3af7-520f-aa99-fd67acd75038",
+            "byline": "By David Ropeik",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:00:07-05:00",
+            "created_date": "2023-02-15T15:00:07-05:00",
+            "published_date": "2023-02-15T15:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Espionage and Intelligence Services",
+                "Unidentified Flying Objects (UFO)"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Ropeik-pcwb/15Ropeik-pcwb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2047,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Randall Hill/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Ropeik-pcwb/15Ropeik-pcwb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Randall Hill/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Ropeik-pcwb/15Ropeik-pcwb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Randall Hill/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3YTNHHu"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Diversity vs. Fairness",
+            "abstract": "When the Supreme Court upheld affirmative action in the 1970s, it helped lay the groundwork for the program’s demise.",
+            "url": "https://www.nytimes.com/2023/02/15/briefing/affirmative-action.html",
+            "uri": "nyt://article/5fd1db78-3069-507e-ba47-f37bbb48c52b",
+            "byline": "By David Leonhardt",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T07:00:38-05:00",
+            "created_date": "2023-02-15T06:52:44-05:00",
+            "published_date": "2023-02-15T06:52:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Black People",
+                "Affirmative Action",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/magazine/15themorning-promo/15themorning-lead-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1324,
+                    "width": 1326,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Supreme Court on Oct. 12, 1977, before the oral argument in Regents of the University of California v. Bakke.",
+                    "copyright": "Jeff Taylor/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/magazine/15themorning-promo/15themorning-lead-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Supreme Court on Oct. 12, 1977, before the oral argument in Regents of the University of California v. Bakke.",
+                    "copyright": "Jeff Taylor/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/19/magazine/15themorning-promo/15themorning-lead-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Supreme Court on Oct. 12, 1977, before the oral argument in Regents of the University of California v. Bakke.",
+                    "copyright": "Jeff Taylor/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/40VzThq"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "the-daily",
+            "title": "The Online Search Wars",
+            "abstract": "Microsoft released a version of Bing powered with artificial intelligence. Did it just revolutionize how we search the internet?",
+            "url": "https://www.nytimes.com/2023/02/15/podcasts/the-daily/chat-gpt-microsoft-bing-artificial-intelligence.html",
+            "uri": "nyt://article/576361e3-013a-5042-8a18-43443c9f8844",
+            "byline": "By Michael Barbaro, Asthaa Chaturvedi, Carlos Prieto, Clare Toeniskoetter, Mooj Zadie, John Ketchum, Mike Benoist, Marion Lozano, Dan Powell and Chris Wood",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T06:03:45-05:00",
+            "created_date": "2023-02-15T06:00:16-05:00",
+            "published_date": "2023-02-15T06:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Artificial Intelligence",
+                "Search Engines",
+                "Software",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Microsoft Corp",
+                "OpenAI Labs"
+            ],
+            "per_facet": [ ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15daily-1/15DAILY-Bing-audio-app-whqt-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google has stiff competition now, after Microsoft integrated powerful A.I. technology into its search engine.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15daily-1/15DAILY-Bing-audio-app-whqt-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google has stiff competition now, after Microsoft integrated powerful A.I. technology into its search engine.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15daily-1/15DAILY-Bing-audio-app-whqt-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google has stiff competition now, after Microsoft integrated powerful A.I. technology into its search engine.",
+                    "copyright": "Ruth Fremson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3K4wQ0p"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "‘I Arrived at Terminal B Early Enough for a Relaxing Lunch’",
+            "abstract": "Waiting to board at La Guardia, switching trains at Queensboro Plaza and more reader tales in this week’s Metropolitan Diary.",
+            "url": "https://www.nytimes.com/2023/02/12/nyregion/metropolitan-diary.html",
+            "uri": "nyt://article/d6c7b353-4f92-5600-b4af-771921cb494a",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2023-02-12T03:00:08-05:00",
+            "created_date": "2023-02-12T03:00:08-05:00",
+            "published_date": "2023-02-12T03:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "METROPOLITAN DIARY",
+            "des_facet": [ ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/12/nyregion/12diary-illo-01/12diary-illo-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 870,
+                    "width": 1105,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/12/nyregion/12diary-illo-01/12diary-illo-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/12/nyregion/12diary-illo-01/12diary-illo-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3YweCcI"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "World Bank President, Dogged by Climate Questions, Steps Down Early",
+            "abstract": "David Malpass, under fire for months by critics who called him a climate denier, said he will step down as president, leaving a year before his term ends.",
+            "url": "https://www.nytimes.com/2023/02/15/climate/david-malpass-world-bank.html",
+            "uri": "nyt://article/cbd97c3a-f64b-5752-8d7f-8779b2bdb495",
+            "byline": "By David Gelles",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T15:17:47-05:00",
+            "created_date": "2023-02-15T15:08:08-05:00",
+            "published_date": "2023-02-15T15:08:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "World Bank"
+            ],
+            "per_facet": [
+                "Malpass, David"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-02-kwhp/15cli-malpass-02-kwhp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "World Bank President David Malpass said he would step down by June 30, roughly a year before his term expires.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-02-kwhp/15cli-malpass-02-kwhp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "World Bank President David Malpass said he would step down by June 30, roughly a year before his term expires.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15cli-malpass-02-kwhp/15cli-malpass-02-kwhp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "World Bank President David Malpass said he would step down by June 30, roughly a year before his term expires.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E9N0lt"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "How Deadly Was China’s Covid Wave?",
+            "abstract": "Rough estimates suggest that between 1 and 1.5 million people have died since China ended “zero Covid” — far more than the official count.",
+            "url": "https://www.nytimes.com/interactive/2023/02/15/world/asia/china-covid-death-estimates.html",
+            "uri": "nyt://interactive/0cf570ef-335a-52aa-933a-67fcd04f5ab8",
+            "byline": "By James Glanz, Mara Hvistendahl and Agnes Chang",
+            "item_type": "Interactive",
+            "updated_date": "2023-02-15T10:35:27-05:00",
+            "created_date": "2023-02-15T05:00:04-05:00",
+            "published_date": "2023-02-15T05:00:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Fatalities)",
+                "Coronavirus (2019-nCoV)",
+                "Infections",
+                "Coronavirus Omicron Variant"
+            ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/14/world/china-covid-mortality-promo/china-covid-mortality-promo-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agnes Chang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/14/world/china-covid-mortality-promo/china-covid-mortality-promo-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agnes Chang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/14/world/china-covid-mortality-promo/china-covid-mortality-promo-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agnes Chang/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E8p0iv"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In a Battered Turkish City, Keeping Watch as the Bodies Emerge",
+            "abstract": "Residents of Adiyaman, hit hard by the quake, hold impromptu vigils while they await news of relatives still under the rubble, feeding wood from shattered cupboards into fires to keep warm.",
+            "url": "https://www.nytimes.com/2023/02/15/world/europe/turkey-earthquake-rescue-vigils.html",
+            "uri": "nyt://article/08bdcc0f-d5cb-55a0-a1ca-ffa67518a42a",
+            "byline": "By Ben Hubbard, Safak Timur and Emin Ozmen",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T13:39:22-05:00",
+            "created_date": "2023-02-15T09:01:01-05:00",
+            "published_date": "2023-02-15T09:01:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Turkey Earthquake (Feb 6, 2023)"
+            ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "Turkey",
+                "Adiyaman (Turkey)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15turkey-vigils-promo/15turkey-vigils-04-hjvc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mourning after rescuers found the body of a relative in a collapsed building in Adiyaman, Turkey, on Tuesday.",
+                    "copyright": "Emin Ozmen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15turkey-vigils-promo/15turkey-vigils-04-hjvc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mourning after rescuers found the body of a relative in a collapsed building in Adiyaman, Turkey, on Tuesday.",
+                    "copyright": "Emin Ozmen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15turkey-vigils-promo/15turkey-vigils-04-hjvc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mourning after rescuers found the body of a relative in a collapsed building in Adiyaman, Turkey, on Tuesday.",
+                    "copyright": "Emin Ozmen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3YpcLpT"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Anita Dunn and Bob Bauer: The Couple at the Center of Biden’s Inner Circle",
+            "abstract": "The pair, which has one of the most extensive networks in Democratic politics, has shaped the White House’s response to the president’s handling of classified documents.",
+            "url": "https://www.nytimes.com/2023/02/15/us/politics/biden-documents-anita-dunn-bob-bauer.html",
+            "uri": "nyt://article/b68cb29b-1bbc-5eb1-bd35-186be2ad0645",
+            "byline": "By Katie Rogers and Glenn Thrush",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T12:17:19-05:00",
+            "created_date": "2023-02-15T05:00:23-05:00",
+            "published_date": "2023-02-15T05:00:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Classified Information and State Secrets"
+            ],
+            "org_facet": [ ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Dunn, Anita",
+                "Bauer, Robert F"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/01/us/politics/00dc-dunn_1/00dc-dunn_1-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anita Dunn and Bob Bauer first crossed paths in 1984, when she consulted him on an election recount for a congressional campaign.",
+                    "copyright": "Photo Illustration by Leslie dela Vega/The New York Times; Photos by Lexey Swall for The New York Times, Chip Somodevilla, via Getty Image"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/01/us/politics/00dc-dunn_1/00dc-dunn_1-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anita Dunn and Bob Bauer first crossed paths in 1984, when she consulted him on an election recount for a congressional campaign.",
+                    "copyright": "Photo Illustration by Leslie dela Vega/The New York Times; Photos by Lexey Swall for The New York Times, Chip Somodevilla, via Getty Image"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/01/us/politics/00dc-dunn_1/00dc-dunn_1-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anita Dunn and Bob Bauer first crossed paths in 1984, when she consulted him on an election recount for a congressional campaign.",
+                    "copyright": "Photo Illustration by Leslie dela Vega/The New York Times; Photos by Lexey Swall for The New York Times, Chip Somodevilla, via Getty Image"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Is01JH"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "The 25 Essential Dishes to Eat in Paris",
+            "abstract": "We asked five chefs and culinary experts to determine the most delicious and memorable plates in the food-obsessed French capital. Here are the results.",
+            "url": "https://www.nytimes.com/2023/02/13/t-magazine/paris-best-restaurants-food.html",
+            "uri": "nyt://article/d9b69454-ea8e-5f22-9a46-def71dee79a8",
+            "byline": "By Kurt Soller, Sara Lieberman, Katherine McGrath, Zoey Poll, Lindsey Tramuta and Thibault Montamat",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T11:04:31-05:00",
+            "created_date": "2023-02-13T05:00:45-05:00",
+            "published_date": "2023-02-13T05:00:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Chefs",
+                "Restaurants",
+                "Food",
+                "French Food (Cuisine)",
+                "Ice Cream and Frozen Desserts",
+                "Travel and Vacations",
+                "Bakeries and Baked Products",
+                "Content Type: Service",
+                "internal-sub-only"
+            ],
+            "org_facet": [ ],
+            "per_facet": [ ],
+            "geo_facet": [
+                "Paris (France)",
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thibault Montamat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thibault Montamat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/13/t-magazine/13tmag-parispromo/13tmag-parispromo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thibault Montamat"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E4VH0d"
+        },
+        {
+            "section": "crosswords",
+            "subsection": "",
+            "title": "Few Wordle Players Use Consistent Starting Words, but When They Do, It’s ADIEU",
+            "abstract": "What the data tells us about how people play the game.",
+            "url": "https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html",
+            "uri": "nyt://article/f2620fa1-b3df-5849-96cd-58d555181022",
+            "byline": "By Deb Amlen",
+            "item_type": "Article",
+            "updated_date": "2023-02-15T11:21:31-05:00",
+            "created_date": "2022-09-01T09:00:05-04:00",
+            "published_date": "2022-09-01T09:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "GAMEPLAY",
+            "des_facet": [
+                "Wordle (Puzzle)",
+                "Games"
+            ],
+            "org_facet": [
+                "New York Times"
+            ],
+            "per_facet": [
+                "Gates, Bill"
+            ],
+            "geo_facet": [ ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 683,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3q2W8kk"
+        }
+    ]
+
+}
