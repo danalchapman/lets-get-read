@@ -90,7 +90,7 @@ I utilized Figma's Jamboard for the Component Architecture and general Wireframe
 
 - [ ] Add in functionality for a User to save an article to be viewed later
 - [ ] Add in a search functionality for a User to search by typing into a search bar
-- [ ] Cypress Testing
+- [x] Cypress Testing
 - [ ] Dark Mode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
