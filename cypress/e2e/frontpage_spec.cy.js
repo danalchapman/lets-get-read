@@ -6,7 +6,8 @@ describe('Front Page', () => {
       Cypress.env('url'), 
       {
         fixture: 'data.json'
-    })
+      }
+    )
     cy.visit('/')
   })
 
