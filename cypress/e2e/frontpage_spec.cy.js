@@ -3,10 +3,8 @@ describe('Front Page', () => {
   beforeEach(() => {
     cy.intercept(
       'GET',
-      'https://api.nytimes.com/svc/topstories/v2/home.json?api-key=kGIEvh7eGvazdezLP5nUWi9kgmMnyyyY', 
+      Cypress.env('url'), 
       {
-        statusCode: 200,
-        ok: true,
         fixture: 'data.json'
     })
     cy.visit('/')
