@@ -5,7 +5,7 @@
 
 <h3 align="center">Consolidated News</h3>
 
-<h4 align="center"><a href=""><strong>Let's Get Read: TBD</strong></a> | <a href="https://github.com/danalchapman/lets-get-read"><strong>Repository »</strong></a></h4>
+<h4 align="center"><a href="https://lets-get-read.vercel.app/"><strong>Let's Get Read</strong></a> | <a href="https://github.com/danalchapman/lets-get-read"><strong>Repository »</strong></a></h4>
 
 <p></p>
 
